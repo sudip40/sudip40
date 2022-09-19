@@ -1,4 +1,3 @@
-//[![MasterHead](  https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://sudip40.io)
 <h1 align="center">Hi 👋, I'm Sudip Karmakar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding">
