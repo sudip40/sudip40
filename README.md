@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , Java, Spring Boot, MySQL**
+- 💬 Ask me about **HTML , CSS , JavaScript , Java, Spring Boot, MySQL, Hibernate**
 
 - 📫 How to reach me karmakar.sudip40@gmail.com
 
