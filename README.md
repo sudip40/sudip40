@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudip40&show_icons=true&locale=en" alt="sudip40" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudip40&" alt="sudip40" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=sudip40&margin-w=15&margin-h=15" alt="sudip40" /></p>
