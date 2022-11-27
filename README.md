@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sudip Karmakar</h1>
-<p> Aspiring Full Stack Web Developer who is analytical and meticulous. able to create full-stack online apps utilizing Java, Spring Boot, MySQL, and Hibernate on the backend and HTML, CSS, and JavaScript on the front end. Individuals who enjoy working in teams and are skilled at executing initiatives with a defined goal. I'm really interested in working as a software developer to enhance the user experience.</p>
-<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
+<p> Aspiring Java Backend Developer who is analytical and meticulous. Is able to create a backend application utilizing Java, Spring Boot, MySQL, and Hibernate on the backend. Individual who enjoys working in teams and is skilled at executing initiatives with a defined goal. Looking forward to working as a java backend developer to enhance the user experience.</p>
+<h3 align="center">A Passionate Java Backend Developer from India</h3>
 <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip40&label=Profile%20views&color=0e75b6&style=flat" alt="sudip40" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , Java, Spring Boot, MySQL, Hibernate**
+- 💬 Ask me about **Java , Spring , Spring Boot , MySQL , Hibernate , HTML , CSS , JavaScript**
 
 - 📫 How to reach me karmakar.sudip40@gmail.com
 
