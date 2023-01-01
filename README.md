@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip40&label=Profile%20views&color=0e75b6&style=flat" alt="sudip40" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Security**
 
 - 💬 Ask me about **Java , Spring , Spring Boot , MySQL , Hibernate , HTML , CSS , JavaScript**
 
